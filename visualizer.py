@@ -1,4 +1,4 @@
-# (Test Comment to check branch)
+# Test Comment to check branch
 
 from matplotlib import pyplot as plt
 from matplotlib.animation import FuncAnimation
